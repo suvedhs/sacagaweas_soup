@@ -5,14 +5,7 @@ FFFCFA white
 297E97 blue
 0B185D dark blue
 */
-* {
-  color: #FFFCFA;
-  font-family: Helvetica;
-}
-body {
-  background-color: #5AB3B5;
-}
 
-h1 {
-  margin: 0 auto;
+.no-underline {
+  text-decoration: none;
 }
